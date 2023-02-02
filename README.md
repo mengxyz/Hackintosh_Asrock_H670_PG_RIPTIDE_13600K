@@ -12,6 +12,8 @@ VGA: Gigabyte RX6650XT Spoof ID
 
 OS: Ventura 13.2
 
+WIFI: GlinkStar BCM94360CD
+
 ---
 
 ## Know Issue
@@ -20,3 +22,7 @@ OS: Ventura 13.2
 - Android Emulator Black Screen on x86_x64, on X86 Working fine
 
 ![alt text](screen-shot-1.png)
+
+## Base Efi From Asrock Z690SL
+
+https://www.tonymacx86.com/threads/asrock-z690-steel-legend-13900kf-12900k-6600xt.317456/
